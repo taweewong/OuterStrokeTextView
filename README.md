@@ -10,9 +10,9 @@ If your project don't have Jitpack, you have to add it first
 
 ```gradle
 allprojects {
-  repositories {
-    maven { url 'https://jitpack.io' }
-  }
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
 }
 ```
 
