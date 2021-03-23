@@ -1,5 +1,9 @@
 # OuterStrokeTextView
 
+#### Note: OuterStrokeTextView can use with only one line of text
+
+<img width="381" alt="image" src="https://user-images.githubusercontent.com/15921410/112095704-8d4c2180-8bcf-11eb-96ab-0fc036099ed0.png">
+
 ## Installation
 
 If your project don't has Jitpack, you have to add it first
@@ -40,7 +44,3 @@ app:outlineWidth
     app:outlineColor="#67C5F8"
     app:outlineWidth="1dp" />
 ```
-
-*Result*
-
-<img width="381" alt="image" src="https://user-images.githubusercontent.com/15921410/112095704-8d4c2180-8bcf-11eb-96ab-0fc036099ed0.png">
