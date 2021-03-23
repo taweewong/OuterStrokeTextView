@@ -6,7 +6,7 @@
 
 ## Installation
 
-If your project don't has Jitpack, you have to add it first
+If your project don't have Jitpack, you have to add it first
 
 ```gradle
 allprojects {
