@@ -16,7 +16,7 @@ Then add dependencies
 
 ```gradle
 dependencies {
-	implementation 'com.github.taweewong:OuterStrokeTextView:1.0'
+    implementation 'com.github.taweewong:OuterStrokeTextView:1.0'
 }
 ```
 
