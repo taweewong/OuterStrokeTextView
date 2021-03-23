@@ -1,0 +1,3 @@
+include ':outer-stroke-text-view'
+include ':app'
+rootProject.name = "OuterStrokeTextViewExample"
